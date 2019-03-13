@@ -12,6 +12,9 @@
 #define SET(x) (mark[x>>5]|=1<<(x&31))
 #define maxL (10000000>>5)+1
 #define mod 1000000007
+#define vi vector<int>
+#define pii pair<int, int>
+#define mii map<int, int>
 typedef long long ll;
 using namespace std;
 
